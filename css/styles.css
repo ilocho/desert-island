@@ -52,6 +52,9 @@ button {
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;    
 }
+.navbar {
+    border-radius: 15px 15px 0 0;
+}
 .img-fluid {
     width: 100%;
     border-radius: 15px 15px 15px 15px;
